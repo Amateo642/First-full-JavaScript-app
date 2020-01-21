@@ -1,1 +1,1 @@
-# First-full-JavaScript-app
+# App JS TODO. Just training.
